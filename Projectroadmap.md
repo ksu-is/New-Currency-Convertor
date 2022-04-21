@@ -10,7 +10,7 @@
 - [X] Get ready for Sprint 2
 
 ## Sprint 2
-- [X] Find information from similar projects on the web
+- [X] Find information from similar projects on the web and upload here
 - [X] Start creating the program using python code
 - [X] Keep improving project by making and updating changes
 - [X] Make small updates on GitHub
