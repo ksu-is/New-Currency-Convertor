@@ -18,7 +18,10 @@
 - [X] Get ready for Sprint 3
 
 ## Sprint 3
+-[x] Create Powerpoint Slie
 
+## FINAL
+-[x] Present presentation to classmates on teams.
 
 
 
